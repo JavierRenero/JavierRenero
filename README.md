@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on Backend with Redis and Kafka, all handled with Golang.<br>I'd like to improve my Skillset, so I'm learning tools related to DEV-Ops and Full-Stack.<br>I'm also curious about the trend with LLM's so I'm looking forward to learning more. 
+🚀 Growing up, I was fascinated by how computers worked, spending countless hours exploring and learning about them. This curiosity soon turned into a passion, steering me toward a career in software development. Participating in a software development competition opened my eyes to the vast potential of computers and the impact of well-designed algorithms. This experience fueled my decision to pursue a degree in Computer Science and Engineering, where I developed a strong passion for using technology to tackle complex challenges.
+
+💻 Now as a Computer Science Engineer and developer, I am motivated by a commitment to continuous improvement, consistency, and embracing new learning opportunities. I thrive in collaborative settings, working with teams to create innovative solutions for complex problems. Challenging projects especially appeal to me, as they provide opportunities for growth and a deep sense of accomplishment.
+
+⏳ 📈 Over the years, I have honed my skills in programming languages like Java, Python, C/C++, TypeScript, JavaScript, Query, HTML, CSS, and SQL, as well as operating systems like Linux. I am also proficient in modern technologies such as Golang, Redis, Kafka, Docker, and Kubernetes. My understanding of microservices architecture and API gateways has further equipped me to build scalable and resilient applications. I am eager to connect with industry professionals and explore new opportunities to contribute to innovative projects. 
 
 
 ## 🌐 Socials:
